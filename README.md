@@ -23,8 +23,14 @@ git clone https://github.com/silam741852963/KashiSagashi-Frontend.git
 ```bash
 cd kashisagashifrontend
 ```
+2. Create .env.local file:
 
-3. Install dependencies:
+```
+REVALIDATE_TOKEN=
+BASE_URL=
+```
+  
+4. Install dependencies:
 
 ```bash
 npm install
