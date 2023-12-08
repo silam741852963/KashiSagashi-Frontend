@@ -23,7 +23,8 @@ git clone https://github.com/silam741852963/KashiSagashi-Frontend.git
 ```bash
 cd kashisagashifrontend
 ```
-2. Create .env.local file:
+
+3. Create .env.local file:
 
 ```
 REVALIDATE_TOKEN=
