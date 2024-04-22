@@ -2,6 +2,8 @@
 
 Kashi Sagashi is a song search application that allows users to find songs by their lyrics.
 
+The Backend is [Kashi-Sagashi-Backend](https://github.com/dangbui03/Kashi-Sagashi-Backend)
+
 ## Getting Started
 
 To get the project up and running locally, follow these steps:
